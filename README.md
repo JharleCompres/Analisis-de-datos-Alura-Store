@@ -24,17 +24,11 @@ plotly / folium: Generación de gráficos interactivos y mapas geográficos.
 
 2. Archivos del Proyecto
 
-Archivo
+Archivo y Descripción
 
-Descripción
+AluraStore.ipynb: Cuaderno principal de Jupyter que contiene todo el código del análisis, las visualizaciones y la conclusión/informe final.
 
-AluraStore.ipynb
-
-Cuaderno principal de Jupyter que contiene todo el código del análisis, las visualizaciones y la conclusión/informe final.
-
-[Archivos CSV de Datos]
-
-Se asume que los archivos de datos brutos (tienda1.csv, tienda2.csv, etc.) están disponibles para la carga inicial en el cuaderno.
+[Archivos CSV de Datos]: Se asume que los archivos de datos brutos (tienda1.csv, tienda2.csv, etc.) están disponibles para la carga inicial en el cuaderno.
 
 3. Pasos para la Ejecución
 
