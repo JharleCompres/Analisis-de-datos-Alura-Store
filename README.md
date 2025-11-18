@@ -6,7 +6,7 @@
 
 ### El análisis completo, incluyendo los cálculos, las transformaciones de datos y las visualizaciones (gráficos de barras, dispersión y mapas geográficos), se encuentra detallado en el cuaderno de Jupyter.
 
-🚀 ## **Ejecución del Análisis**
+## 🚀 **Ejecución del Análisis**
 
 ### El proyecto está diseñado para ejecutarse en el entorno de Google Colab o cualquier entorno local que soporte cuadernos de Jupyter.
 
@@ -44,7 +44,7 @@
 
 ## 📈 **Conclusiones Clave**
 
-##### El análisis detallado, contenido en el Informe de Recomendación para la Venta de Tiendas, llegó a la siguiente conclusión principal:
+#### El análisis detallado, contenido en el Informe de Recomendación para la Venta de Tiendas, llegó a la siguiente conclusión principal:
 
 #### Recomendación: Se recomienda al Sr. Juan vender la Tienda 4.
 
